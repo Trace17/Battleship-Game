@@ -1,0 +1,2 @@
+# Battleship-Game
+This class creates a Battleship game where each player has their own 10x10 grid they place their ships. # On their turn, they can fire a torpedo at a square on the enemy's grid. Player 'first' gets the first turn to fire # a torpedo, after which players alternate firing torpedo's. A ship is sunk when all of its squares have been hit. # When a player sinks their opponent's final ship, they win.
